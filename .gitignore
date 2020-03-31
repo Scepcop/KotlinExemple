@@ -1,14 +1,27 @@
-*.iml
+* .iml
 .gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+/ local.properties
+/ .Idea / кэши
+/ .idea / библиотеки
+/ .idea / modules.xml
+/ .idea / workspace.xml
+/ .idea / navEditor.xml
+/ .idea / assetWizardSettings.xml
 .DS_Store
-/build
-/captures
+/ построить
+/ захватывает
 .externalNativeBuild
 .cxx
+
+/ Gradle
+/ build.gradle
+/ gradle.properties
+/ gradlew
+/ gradlew.bat
+/ settings.gradle
+/ app / build
+/ app / libs /
+/ app / build.gradle
+/ app / src / androidTest
+/ app / src / main / res
+/ app / src / main / AndroidManifest.xml
