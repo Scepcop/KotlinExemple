@@ -32,16 +32,6 @@ object UserHolder {
             else null
         }
     }
-/*
-    fun registerUserByPhone(
-        fullName: String,
-        rawPhone: String
-    ): User = User.makeUser(fullName, phone = rawPhone)
-        .also { user ->
-            if (!map.containsKey(rawPhone)) {
-                map[rawPhone] = user
-            } else throw IllegalArgumentException("A user with this email already exists")
-        }*/
 
     fun registerUserByPhone(
         fullName: String,
